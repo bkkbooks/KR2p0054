@@ -142,6 +142,7 @@ markers:
   - {type: substitution, offset: 203, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20835}}
   - {type: punctuation, offset: 204, content: ']', id: KR2p0054_tls_001-bkkpn67}
   - {type: punctuation, offset: 205, content: (, id: KR2p0054_tls_001-bkkpn68}
+  - {type: voice, offset: 205, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 206, content: ―, id: KR2p0054_tls_001-bkkpn69}
   - {type: punctuation, offset: 207, content: ), id: KR2p0054_tls_001-bkkpn70}
   - {type: punctuation, offset: 207, content: ”, id: KR2p0054_tls_001-bkkpn71}
@@ -222,4 +223,4 @@ markers:
   - {type: 'tls:seg', offset: 289, content: '', id: KR2p0054_tls_001-9a.11}
   - {type: xml-element, offset: 291, content: '', id: KR2p0054_tls_001-bkkxmlele16, name: p, role: close, attrs: {source: 'SHANGBO.JUNZIWEILI 5.25.9 (STRIPS 6,7) MACHENGYUAN 5: 257, 258 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:75ba6c75add4123e681b78fab69629d8b85dc024663e0cda7b0d65c3028785f7
+hash: sha256:493a2228dc2177f6f8e241204bc5cb3ab3870bbd6eaaf2a6bd142463f9570296
